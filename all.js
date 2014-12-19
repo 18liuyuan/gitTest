@@ -1,0 +1,1 @@
+first index.js for test
